@@ -1,0 +1,22 @@
+{
+  "name": "campian-adaptation",
+  "version": "0.0.1",
+  "generator-core-version": ">=1.0.0",
+  "description": "Plugin for generating campians",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shanmu",
+  "license": "MIT",
+  "dependencies": {
+    "pretty": "^2.0.0",
+    "recursive-copy": "^2.0.7"
+  },
+  "devDependencies": {
+    "express": "^4.16.2",
+    "open": "0.0.5",
+    "rimraf": "^2.6.2",
+    "socket.io": "^2.0.4"
+  }
+}
